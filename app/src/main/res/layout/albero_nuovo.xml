@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:fillViewport="true" >
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:gravity="center"
+		android:padding="30dp">
+
+		<Button
+			android:id="@+id/bottone_albero_vuoto"
+			style="@style/AppTheme.BottoneColorato"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginBottom="16dp"
+			android:text="@string/empty_tree" />
+
+		<Button
+			android:id="@+id/bottone_scarica_esempio"
+			style="@style/AppTheme.BottoneNormale"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginBottom="16dp"
+			android:text="@string/download_example" />
+
+		<Button
+			android:id="@+id/bottone_importa_gedcom"
+			style="@style/AppTheme.BottoneNormale"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginBottom="16dp"
+			android:text="@string/import_gedcom" />
+
+		<Button
+			android:id="@+id/bottone_recupera_backup"
+			style="@style/AppTheme.BottoneNormale"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/import_backup" />
+
+	</LinearLayout>
+</ScrollView>
