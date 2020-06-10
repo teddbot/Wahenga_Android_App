@@ -24,7 +24,7 @@ The code provided in this repository should compile and build a working version 
 
 The code (classes, variables, comments...) is all written in italian, because of collaboration with an Italian Developer who is a friend.
 
-Official website: www.wahenga.org
+Official website: wahenga.org
 
 You can find _wahenga_ on [Google Play](https://play.google.com/store/apps/details?id=org.wahenga).
 
