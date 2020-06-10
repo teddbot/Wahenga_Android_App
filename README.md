@@ -22,7 +22,7 @@ The code provided in this repository should compile and build a working version 
 |GeoNames "demo" account|Place names suggestions probably don't appear|
 |Backup key|Android Backup Service is not available|
 
-The code (classes, variables, comments...) is all written in italian, because of collaboration with an Italian Developer who is a friend.
+A little of the code (classes, variables, comments...) is written in italian, because of collaboration with an Italian Developer who is a friend.
 
 Official website: https://wahenga.org
 
